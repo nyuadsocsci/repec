@@ -9,3 +9,4 @@ To create your repository, simply click [Generate repository](https://github.com
 For more details, see [Creating a repository from a template](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)
 
 *NOTE:* to get repository Github Pages URL, click **Settings**, then scroll down to **GitHub Pages** section.
+ 
