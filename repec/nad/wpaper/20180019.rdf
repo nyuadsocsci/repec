@@ -1,0 +1,15 @@
+﻿Template-Type: ReDIF-Paper 1.0
+Author-Name: Matt Van Essen
+Author-Name: John Wooders
+Author-Email: mjvanessen@cba.ua.edu
+Author-Workplace-Name: Division of Social Science
+Title: Allocating Positions Fairly: An Auction and its Relationship to the Shapley Value
+Abstract: We study the problem of fairly allocating heterogenous items, priorities, positions, or property rights to participants with equal claims, in an incomplete information environment. We introduce a dynamic auction for solving this problem and we characterize both Bayes Nash equilibrium and “maxmin perfect” play. Building on these characterizations we show that: (i) equilibrium play converges to maxmin perfect play as bidders become infinitely risk averse, and (ii) each bidder obtains his Shapley value when every bidder follows his maxmin perfect strategy. Hence, the equilibrium allocation converges to the Shapley value allocation as bidders become more risk averse. Together these results provide both noncooperative and decision theoretic foundations for the Shapley value in an environment with incomplete information.
+Length:  53 pages
+Creation-Date:  2018-08
+Revision-Date: 2018-08
+File-URL: https://nyuad.nyu.edu/content/dam/nyuad/academics/divisions/social-science/working-papers/2018/0019.pdf
+File-Format: Application/pdf
+File-Function: First version, 2018
+Number: 20180019
+Handle: RePEc:nad:wpaper:20180019
