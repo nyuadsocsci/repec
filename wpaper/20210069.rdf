@@ -5,12 +5,12 @@ Author-Name: Yan Long
 Author-Name: Yves Zenou
 Author-Workplace-Name: Division of Social Science
 Title: Perceived Competition in Networks
-Abstract: We consider an aggregative game of competition in which agents have an imperfect knowledge  about  the  set  of  agents  they  are  in  competition  with.  We  model  agent’s perceived  competitors  by  a  network  in  which  each  agent  is  assumed  to  only  have information  on  the  activities  of  their  direct  neighbors.  In  this  framework,  a  natural equilibrium concept emerges, the peer-consistent equilibrium  (PCE). In a PCE, each agent chooses an action level that maximizes her subjective perceived utility and the action levels of all individuals in the network must be consistent.  We decompose the network  into  communities  and  completely  characterize  peer-consistent  equilibria  by identifying  which  sets  of  agents  can  be  active  in  equilibrium.   An  agent  is  active  if she either belongs to a strong community or if few agents are aware of her existence. We  show  that  there  is  a  unique  stable  PCE.  We  provide  a  behavioral  foundation  of eigenvector centrality, since, in any stable PCE, agents’ action levels are proportional    to  their  eigenvector  centrality  in  the  network.   We  illustrate  our  results  with  two well-known models:  Tullock contest function and Cournot competition.
+Abstract: We consider an aggregative game in which agents have an imperfect knowledge about the set of agents they are in competition with. We  model this lack of knowledge through a directed graph that we call the perception network. In this framework, a natural equilibrium concept emerges, the Perception-Consistent Equilibrium (PCE). At a PCE, each agent chooses an action level that maximizes her subjective perceived utility while the action levels of all individuals must be consistent. We  prove  the existence of PCEs in a large class of aggregative games.We also show that, at any PCE, the efforts are al-  ways ordered accordingly to some centrality measure in the perception network. For a specific subclass of aggregative games, we decompose the network into communities and completely characterize the PCEs by  identifying which sets of agents are active, as well as their effort level.  We prove that, at the unique stable PCE, the agents’ action levels are proportional to their eigenvector centrality in the perception network.We illustrate our results with two  well-known models: Tullock contest and Cournot competition.
 Length: 62 pages 
 Creation-Date:  2021-09
-Revision-Date: 2021-09
-File-URL: https://nyuad.nyu.edu/content/dam/nyuad/academics/divisions/social-science/working-papers/2021/0069.pdf
+Revision-Date: 2021-12
+File-URL: /content/dam/nyuad/academics/divisions/social-science/working-papers/2021/Working Paper 0069(2)_Bochet.pdf
 File-Format: Application/pdf
-File-Function: First version, 2021
-Number: 20210069
-Handle: RePEc:nad:wpaper:20210069
+File-Function: Second version, 2021
+Number: 20210069(2)
+Handle: RePEc:nad:wpaper:20210069(2)
